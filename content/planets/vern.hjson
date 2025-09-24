@@ -86,7 +86,8 @@ generator: {
 }
 alwaysUnlocked:true
 sectorSize:1
-orbitSpacing:4
+orbitRadius: 50
+orbitSpacing:13
 radius:1
 minZoom:0.5
 drawOrbit:true
