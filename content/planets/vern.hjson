@@ -98,7 +98,7 @@ sectorSeed:529
 bloom:true
 visible:true
 atmosphereColor:93C2BB
-iconColor:#93C2BB
+iconColor:93C2BB
 hasAtmosphere:true
 allowWaveSimulation:true
 allowLaunchToNumbered:false
