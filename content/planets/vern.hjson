@@ -10,20 +10,20 @@ mesh: [
   radius:0.894
   octaves:3.5
   persistence:0.5
-  scale:1.1
+  scale:1
   mag:2.5
 }
 {
   type:noiseMesh
   planet:vern
-  seed:14
+  seed:61
   divisions:4
   color1:008a75ff
   color2:6a6c71ff
   radius:0.8
   octaves:3
   persistence:0.8
-  scale:1
+  scale:0.9
   mag:1.5
 }
 ]
