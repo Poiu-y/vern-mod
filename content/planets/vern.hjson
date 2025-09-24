@@ -20,8 +20,8 @@ mesh: [
   divisions:4
   color1:008a75ff
   color2:6a6c71ff
-  radius:0.8
-  octaves:3.5
+  radius:0.87
+  octaves:4
   persistence:0.8
   scale:0.9
   mag:1.5
