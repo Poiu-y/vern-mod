@@ -75,7 +75,7 @@ allowLaunchToNumbered:false
 clearSectorOnLose:true
 allowWaves:true
 icon:planet
-defaultCore: "shard"
+defaultCore: "core-shard"
 parent: "sun"
 solarSystem:"sun"
 launchCanadets:[]
