@@ -10,7 +10,7 @@ mesh: [
   radius:0.894
   octaves:3.5
   persistence:0.5
-  scale:1.5
+  scale:1.1
   mag:2.5
 }
 {
@@ -27,7 +27,8 @@ mesh: [
   mag:1.5
 }
 ]
-cloudMesh: {
+cloudMesh: [
+{
   type:HexSkyMesh
   seed:41
   speed:0.4
@@ -39,6 +40,7 @@ cloudMesh: {
   scl:1
   thresh:0.4
 }
+]
 generator: {
   min:1
   max:1
