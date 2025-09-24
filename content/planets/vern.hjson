@@ -20,7 +20,7 @@ mesh: {
   color1:008a75
   color2:6a6c71
   radius:0.8
-  octaves:3
+  octaves:2
   persistence:0.8
   scale:1
   mag:1.5
@@ -29,7 +29,7 @@ cloudMesh: {
   type:HexSkyMesh
   seed:41
   speed:0.4
-  radius:1
+  radius:0.09
   divisions:4
   color:93C2BB
   octaves:3
