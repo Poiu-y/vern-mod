@@ -20,8 +20,8 @@ mesh: {
   color1:008a75
   color2:6a6c71
   radius:0.8
-  octaves:2
-  persistence:0.8
+  octaves:4
+  persistence:0.5
   scale:1
   mag:1.5
 }
