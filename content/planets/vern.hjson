@@ -26,6 +26,19 @@ mesh: [
   scale:0.9
   mag:1.5
 }
+{
+  type:noiseMesh
+  planet:vern
+  seed:6
+  divisions:4
+  color1:008a75ff
+  color2:002922ff
+  radius:0.87
+  octaves:4
+  persistence:0.8
+  scale:0.9
+  mag:1.5
+}
 ]
 cloudMesh: [
 {
