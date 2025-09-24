@@ -69,14 +69,14 @@ cloudMesh: [
 {
   type:HexSkyMesh
   seed:1
-  speed:0.4
+  speed:0.5
   radius:0.09
-  divisions:5
+  divisions:4
   color:AA9A2
   octaves:3
-  persistence:0.6
+  persistence:0.4
   scl:1
-  thresh:0.4
+  thresh:0.6
 }
 ]
 generator: {
