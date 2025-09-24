@@ -3,14 +3,14 @@ mesh: {
   type:noiseMesh
   planet:vern
   seed:14
-  divisions:4
+  divisions:7
   color1:002922
   color2:2d5c55
-  radius:0.8
-  octaves:3
+  radius:0.894
+  octaves:3.1
   persistence:0.8
-  scale:1
-  mag:1.5
+  scale:1.1
+  mag:1.7
 }
 mesh: {
   type:noiseMesh
@@ -20,7 +20,7 @@ mesh: {
   color1:008a75
   color2:6a6c71
   radius:0.8
-  octaves:4
+  octaves:3
   persistence:0.5
   scale:1
   mag:1.5
