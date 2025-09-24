@@ -1,0 +1,81 @@
+localizedName:Vern
+mesh: {
+  type:noiseMesh
+  planet:vern
+  seed:14
+  divisions:4
+  color1:002922
+  color2:2d5c55
+  radius:0.8
+  octaves:3
+  persistence:0.8
+  scale:1
+  mag:1.5
+}
+mesh: {
+  type:noiseMesh
+  planet:vern
+  seed:14
+  divisions:4
+  color1:008a75
+  color2:6a6c71
+  radius:0.9
+  octaves:3
+  persistence:0.8
+  scale:1
+  mag:1.5
+}
+cloudMesh: {
+  type:HexSkyMesh
+  seed:41
+  speed:0.4
+  radius:0.09
+  divisions:4
+  color:93C2BB
+  octaves:3
+  persistence:0.6
+  scl:1
+  thresh:0.4
+}
+generator: {
+  min:1
+  max:1
+  octaves:2
+  scale:30
+  mag:0.4
+  thresh:1
+  foct:3
+  fmag:0.5
+  fscl:50
+  fper:0.6
+  radMin:600
+  radMax:600
+  stoneChance:0
+  ferricChance:0.5
+  carbonChance:1
+}
+alwaysUnlocked:true
+sectorSize:1
+orbitSpacing:13
+radius:1
+minZoom:0.5
+drawOrbit:true
+atmosphereRadIn:0
+atmosphereRadOut:0.4
+accessible:true
+updateLighting:false
+sectorSeed:529
+bloom:true
+visible:true
+atmosphereColor:93C2BB
+iconColor:#93C2BB
+hasAtmosphere:true
+allowWaveSimulation:true
+allowLaunchToNumbered:false
+clearSectorOnLose:true
+allowWaves:true
+icon:planet
+defaultCore: "shard"
+parent: "sun"
+solarSystem:"sun"
+launchCanadets:[]
