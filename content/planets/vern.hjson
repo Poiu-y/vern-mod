@@ -7,7 +7,7 @@ mesh: [
   divisions:3
   color1:002922ff
   color2:2d5c55ff
-  radius:0.894
+  radius:0.8
   octaves:3.5
   persistence:0.5
   scale:1
@@ -20,7 +20,7 @@ mesh: [
   divisions:4
   color1:008a75ff
   color2:6a6c71ff
-  radius:0.8
+  radius:0.75
   octaves:3
   persistence:0.8
   scale:0.9
