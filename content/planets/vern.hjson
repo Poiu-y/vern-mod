@@ -15,7 +15,7 @@ mesh: {
 mesh: {
   type:noiseMesh
   planet:vern
-  seed:50
+  seed:14
   divisions:4
   color1:008a75ff
   color2:6a6c71ff
@@ -29,7 +29,7 @@ cloudMesh: {
   type:HexSkyMesh
   seed:41
   speed:0.4
-  radius:0.09
+  radius:0.05
   divisions:4
   color:93C2BB
   octaves:3
