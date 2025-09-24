@@ -12,19 +12,19 @@ mesh: {
   scale:1.1
   mag:1.7
 }
-mesh: {
-  type:noiseMesh
-  planet:vern
-  seed:50
-  divisions:4
-  color1:008a75
-  color2:6a6c71
-  radius:0.8
-  octaves:3
-  persistence:0.5
-  scale:1
-  mag:1.5
-}
+//mesh: {
+//  type:noiseMesh
+//  planet:vern
+//  seed:50
+//  divisions:4
+//  color1:008a75
+//  color2:6a6c71
+//  radius:0.8
+//  octaves:3
+//  persistence:0.5
+//  scale:1
+//  mag:1.5
+//}
 cloudMesh: {
   type:HexSkyMesh
   seed:41
