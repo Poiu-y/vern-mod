@@ -1,5 +1,6 @@
 localizedName:Vern
-mesh: {
+mesh: [
+{
   type:noiseMesh
   planet:vern
   seed:14
@@ -12,7 +13,7 @@ mesh: {
   scale:1.5
   mag:2.5
 }
-mesh: {
+{
   type:noiseMesh
   planet:vern
   seed:14
@@ -25,6 +26,7 @@ mesh: {
   scale:1
   mag:1.5
 }
+]
 cloudMesh: {
   type:HexSkyMesh
   seed:41
