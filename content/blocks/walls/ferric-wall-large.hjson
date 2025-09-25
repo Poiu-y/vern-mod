@@ -1,0 +1,12 @@
+type: Wall
+name: Laege Ferric Stone Wall
+description: wall
+size: 2
+health: 1400
+squareSprite: false
+requirements: [
+  ferric-stone-item/30
+]
+research: ferric-wall
+category: defense
+researchCostMultiplier: 0.05
