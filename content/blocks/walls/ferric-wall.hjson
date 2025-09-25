@@ -1,0 +1,12 @@
+type: Wall
+name: Ferric Stone Wall
+description: wall
+size: 1
+health: 350
+squareSprite: false
+requirements: [
+  ferric-stone-item/6
+]
+research: core-vent
+category: defense
+researchCostMultiplier: 0.05
