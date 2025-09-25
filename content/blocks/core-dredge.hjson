@@ -1,0 +1,23 @@
+type:CoreBlock
+name: "Core Dredge"
+description: "the core of a base, if destroyed the all systems in the sector cease"
+#TODO update this when the items are added
+lore: "the first draft, self replicating"
+requirements: [
+  graphite/40
+]
+isFirstTier:true
+size:3
+squareSprite:false
+alwaysUnlocked:true
+#TODO update this when the unit is added
+unitType:alpha
+health:2410
+itemCapacity:1000
+unitCapModifier:5
+category:effect
+research:{
+  parent: shard
+  requiresUnlock:false
+}
+hiddenOnPlanets: [serpulo, erekir]
