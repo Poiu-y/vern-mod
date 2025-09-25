@@ -7,6 +7,6 @@ squareSprite: false
 requirements: [
   ferric-stone-item/6
 ]
-research: core-vent
+research: shard
 category: defense
 researchCostMultiplier: 0.05
