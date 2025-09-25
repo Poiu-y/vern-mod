@@ -1,0 +1,7 @@
+name:"Ferric Stone"
+hardness:0.5
+cost:0.5
+alwaysUnlocked:true
+research:shard
+hiddenOnPlanets: [serpulo, erekir]
+color:675b53
