@@ -4,7 +4,8 @@ description: "the core of a base, if destroyed the all systems in the sector cea
 #TODO update this when the items are added
 details: "the first draft, self replicating"
 requirements: [
-  graphite/40
+  graphite/140
+  ferric-stone-item/1200
 ]
 isFirstTier:true
 size:3
