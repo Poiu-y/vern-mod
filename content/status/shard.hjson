@@ -1,0 +1,9 @@
+name: "Shard"
+description: "a fragment of something lost to time"
+details: "your roots"
+research:{
+  planet:vern
+  root:true
+  name:vern
+  requiresUnlock:false
+}
