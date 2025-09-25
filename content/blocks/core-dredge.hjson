@@ -2,7 +2,7 @@ type:CoreBlock
 name: "Core Dredge"
 description: "the core of a base, if destroyed the all systems in the sector cease"
 #TODO update this when the items are added
-lore: "the first draft, self replicating"
+details: "the first draft, self replicating"
 requirements: [
   graphite/40
 ]
