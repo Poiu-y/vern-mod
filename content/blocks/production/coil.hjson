@@ -30,7 +30,7 @@ drawer: [
 consumes: {
   power:1
   liquids: [
-    charge/0
+    charge/-1
   ]
 }
 outputLiquids: [
