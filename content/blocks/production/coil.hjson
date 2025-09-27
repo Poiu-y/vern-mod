@@ -1,0 +1,33 @@
+type: GenericCrafter
+size: 1
+category: crafting
+liquidCapacity: 300
+
+liquidOutputDirections: [0,3]
+rotate: true
+quickRotate: true
+placeableLiquid: false
+floating: false
+squareSprite: false
+
+craftTime: 10
+drawer: [
+    {
+        type: DrawRegion
+        suffix: -base
+        layer: 29
+    }
+    {
+        type: DrawRegion
+    }
+    {
+        type: DrawSideRegion
+    }
+    {
+        type: DrawLiquidOutputs
+    }
+]
+consumes: {
+  power:1
+  liquids: []
+}
