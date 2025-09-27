@@ -1,0 +1,16 @@
+name: gilded carge
+description: gold dust suspended in hydrogen, stores passive electric charge
+heatCapacity: 0
+explosiveness: 1.5
+temperature: 0.5
+coolant: false
+gas: true
+color: ffff00
+flammability: 0
+gasColor: ffff00ee
+barColor: ffff007f
+incinerable: false
+lightColor: ffff00ff
+research: {
+  parent: shard
+}
