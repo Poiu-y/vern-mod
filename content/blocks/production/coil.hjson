@@ -38,6 +38,7 @@ outputLiquids: [
     charge/1
     charge/1
 ]
+powerProduction: 1795
 requirements: [
  	ferric-stone-item/50
     gold/60
