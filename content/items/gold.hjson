@@ -1,0 +1,8 @@
+name:"Gold"
+description:"used in electronics and repairing applications, structurally weak. valued to some biological lifeforms, can be forged into alloys"
+hardness:0.1
+cost:0.5
+alwaysUnlocked:true
+research:ferric-stone-item
+hiddenOnPlanets: [serpulo, erekir]
+color:f3e979

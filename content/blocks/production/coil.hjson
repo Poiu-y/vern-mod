@@ -29,5 +29,15 @@ drawer: [
 ]
 consumes: {
   power:1
-  liquids: []
+  liquids: [
+    charge/0
+  ]
 }
+outputLiquids: [
+    charge/1
+    charge/1
+]
+requirements: [
+ 	ferric-stone-item/50
+    gold/60
+]
