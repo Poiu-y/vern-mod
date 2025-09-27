@@ -1,9 +1,9 @@
 type: GenericCrafter
 size: 1
-category: crafting
+category: power
 liquidCapacity: 300
 
-liquidOutputDirections: [0,3]
+liquidOutputDirections: [0,2]
 rotate: true
 quickRotate: true
 placeableLiquid: false
