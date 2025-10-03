@@ -9,4 +9,5 @@ requirements: [
   gold/8
 ]
 powerProduction: 0.1
+hasPower: true
 researchCostMultiplier: 0.5
