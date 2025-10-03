@@ -1,0 +1,12 @@
+type: SwitchBlock
+name: Power Switch
+description: generates a small amount of power.
+size: 1
+category: logic
+research: shard
+requirements: [
+  ferric-stone-item/15
+  gold/8
+]
+powerProduction: 0.1
+researchCostMultiplier: 0.5
