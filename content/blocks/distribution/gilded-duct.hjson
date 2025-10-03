@@ -1,0 +1,18 @@
+type: Duct
+name: Gilded Duct
+description: Transports items forward, reqires power.
+category: distribution
+alwaysUnlocked: true
+research: shard
+researchCost: [
+  ferric-stone-item/5
+  gold/10
+]
+speed: 15
+health: 45
+bridgeReplacement: ferric-stone-wall
+requirements: [
+  ferric-stone-item/2
+  gold/5
+]
+junctionReplacement: ferric-stone-wall
