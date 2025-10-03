@@ -1,3 +1,2 @@
-core.autocrlf=false
 *.png binary -text
 *.hjson linguist-language=json
