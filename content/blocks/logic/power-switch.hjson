@@ -8,6 +8,8 @@ requirements: [
   ferric-stone-item/15
   gold/8
 ]
-powerProduction: 0.1
+consumes:{
+    power: -0.1
+}
 hasPower: true
 researchCostMultiplier: 0.5
