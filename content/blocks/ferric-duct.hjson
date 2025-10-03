@@ -1,0 +1,16 @@
+type: Duct
+name: Ferric Duct
+description: Transports items forward.
+category: distribution
+alwaysUnlocked: true
+research: shard
+researchCost: [
+  ferric-stone-item/5
+]
+speed: 10
+health: 45
+bridgeReplacement: ferric-stone-wall
+requirements: [
+  ferric-stone-item/1
+]
+junctionReplacement: ferric-stone-wall
