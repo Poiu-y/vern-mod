@@ -4,6 +4,9 @@ description: Transports items forward, reqires power.
 category: distribution
 alwaysUnlocked: true
 research: shard
+consumes: {
+  power: 0.1
+}
 researchCost: [
   ferric-stone-item/5
   gold/10
