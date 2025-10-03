@@ -1,6 +1,6 @@
 type: SwitchBlock
 name: Power Switch
-description: generates a small amount of power.
+description: aplifys voltage in power grids, can overload a power network if too many are active at once.
 size: 1
 category: logic
 research: shard
