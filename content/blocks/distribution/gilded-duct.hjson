@@ -11,7 +11,7 @@ researchCost: [
   ferric-stone-item/5
   gold/10
 ]
-speed: 1
+speed: 20
 health: 45
 bridgeReplacement: ferric-stone-wall
 requirements: [
