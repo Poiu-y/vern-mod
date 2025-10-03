@@ -7,7 +7,7 @@ research: shard
 researchCost: [
   ferric-stone-item/5
 ]
-speed: 10
+speed: 5
 health: 45
 bridgeReplacement: ferric-stone-wall
 requirements: [
