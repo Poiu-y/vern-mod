@@ -1,0 +1,17 @@
+type: Battery
+name: Power Relay
+description: "Stores small amounts of power, causes switches in the power grid, to generate small amounts of power if there is sufficient storage in this device, prevents power surges."
+health: 67
+size: 1
+squareSprite: false
+consumes: {
+  powerBuffered: 15
+}
+requirements: [
+  graphite/4
+  gold/8
+  ferric-stone-item/15
+]
+category: power
+research: power-switch
+researchCostMultiplier: 0.5
