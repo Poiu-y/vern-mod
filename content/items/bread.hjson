@@ -1,1 +1,8 @@
-
+name:"Bread"
+description: "edible to biological life, easy to mass produce, but difficult to recreate from scrach. not directly usefull to you"
+hardness:0.7
+cost:0.5
+alwaysUnlocked:true
+research: dough
+hiddenOnPlanets: [serpulo, erekir]
+color: fff3d6
