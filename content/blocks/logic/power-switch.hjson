@@ -13,3 +13,4 @@ consumes:{
 }
 hasPower: true
 researchCostMultiplier: 0.5
+ignore:ignore
