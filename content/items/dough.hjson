@@ -1,0 +1,7 @@
+name:"Dough"
+hardness:0.1
+cost:0.5
+alwaysUnlocked:true
+research: oven
+hiddenOnPlanets: [serpulo, erekir]
+color: fff3d6
