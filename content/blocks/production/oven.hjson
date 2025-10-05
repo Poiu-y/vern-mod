@@ -1,7 +1,7 @@
 type: GenericCrafter
 name: Old World Oven
 description: "A strange artifact from a bygone civilisation, heats biomatter to 'cook' it. presumeably useful for biological life."
-size: 3
+size: 2
 category: crafting
 research: 09i-03-lithium-grinder
 requirements: [
