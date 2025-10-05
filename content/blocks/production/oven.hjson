@@ -19,5 +19,27 @@ ambientSound: hum
 researchCostMultiplier: 0.5
 ambientSoundVolume: 0.05
 squareSprite: false
-craftEffect: smeltsmoke
+craftEffect: {
+  type: RadialEffect
+  rotationSpacing: 45
+  amount: 8
+  lengthOffset: 4
+  layer: 118
+  effect: {
+    type: ParticleEffect
+    particles: 12
+    length: 14
+    lifetime: 100
+    cone: 20
+    useRotation: false
+    baseRotation: 45
+    sizeFrom: 2.5
+    sizeTo: 0
+    colorFrom: fff3d6
+    colorTo: e0b28d
+    interp: pow2
+    sizeInterp: pow3In
+    layer: 80
+  }
+}
 outputItem: bread/1
