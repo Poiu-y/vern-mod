@@ -29,6 +29,24 @@ drawer: {
       blending: additive
       color: d76a6a80
     }
+    {
+      flameColor: e0b28dff
+      midColor: f2d585ff
+      flameRad: 1.0
+      circleSpace: 2.0
+      flameRadiusScl: 10.0
+      flameRadiusMag: 0.6
+      circleStroke: 1.5
+      x: 0.0
+      y: 0.0
+      alpha: 0.5
+      particles: 30
+      particleLife: 70.0
+      particleRad: 7.0
+      particleSize: 3.0
+      fadeMargin: 0.4
+      rotateScl: 1.5
+    }
   ]
 }
 craftEffect: smeltsmoke
