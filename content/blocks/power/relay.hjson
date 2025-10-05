@@ -7,6 +7,7 @@ squareSprite: false
 consumes: {
   powerBuffered: 15
 }
+emptyLightColor: 82bfa1
 requirements: [
   graphite/4
   gold/8
