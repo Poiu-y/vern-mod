@@ -29,10 +29,6 @@ drawer: {
       blending: additive
       color: d76a6a80
     }
-    {
-      type: DrawRegion
-      suffix: -top
-    }
   ]
 }
 craftEffect: smeltsmoke
