@@ -1,5 +1,6 @@
 type: OreBlock
 name: Panel
+itemDrop: sand
 buildVisibility: shown
 category: effect
 destructible: true
@@ -7,4 +8,4 @@ group: floor-panels
 requirements: [
   ferric-stone-item/1
 ]
-itemDrop:ferric-stone-item
+
