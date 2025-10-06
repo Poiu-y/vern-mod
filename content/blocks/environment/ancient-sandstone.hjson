@@ -1,0 +1,7 @@
+type: StaticWall
+name: Ancient Sandstone
+buildVisibility: sandboxOnly
+category: effect
+requirements: [
+  old-sandstone/58
+]
