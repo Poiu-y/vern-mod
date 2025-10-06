@@ -1,0 +1,9 @@
+type: OreBlock
+name: Panel
+buildVisibility: shown
+category: effect
+destructible: true
+group: floor-panels
+requirements: [
+  ferric-stone-item/1
+]
