@@ -1,5 +1,6 @@
 type: StaticWall
 name: Ancient Sandstone
+destructible: true
 buildVisibility: sandboxOnly
 category: effect
 requirements: [
