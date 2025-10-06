@@ -1,0 +1,7 @@
+name: Weathered Sandstone
+description: aged sedimentary rock, brittle but usefull for simple baricades and containers, trace amounts of clay makes this substance malleable.
+hardness:0.1
+cost:0.5
+research: ferric-stone-item
+hiddenOnPlanets: [serpulo, erekir]
+color:9b928b
