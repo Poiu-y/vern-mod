@@ -3,6 +3,7 @@ name: "Panel"
 itemDrop: sand
 buildVisibility: shown
 category: effect
+variants: 1
 destructible: true
 #group: floor-panels
 requirements: [
