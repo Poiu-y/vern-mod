@@ -4,6 +4,7 @@ itemDrop: sand
 buildVisibility: shown
 category: effect
 destructible: true
+variants: 1
 #group: floor-panels
 requirements: [
   ferric-stone-item/1
