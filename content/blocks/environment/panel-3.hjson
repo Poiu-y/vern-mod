@@ -1,6 +1,6 @@
-type: OreBlock
+type: OverlayFloor
 name: "Panel"
-itemDrop: sand
+#itemDrop: sand
 buildVisibility: shown
 category: effect
 variants: 1
@@ -9,4 +9,4 @@ destructible: true
 requirements: [
   ferric-stone-item/1
 ]
-playerUnmineable: true
+#playerUnmineable: true
