@@ -9,3 +9,4 @@ destructible: true
 requirements: [
   ferric-stone-item/1
 ]
+playerUnmineable: true
