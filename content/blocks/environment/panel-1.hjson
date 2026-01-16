@@ -9,4 +9,4 @@ variants: 1
 requirements: [
   ferric-stone-item/1
 ]
-
+playerUnmineable: true
