@@ -6,3 +6,4 @@ category: effect
 requirements: [
   old-sandstone/58
 ]
+drawTeamOverlay: false
