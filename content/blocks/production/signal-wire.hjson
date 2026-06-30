@@ -1,0 +1,24 @@
+type: GenericCrafter
+size: 1
+
+name: "Signal Wire"
+description: "Transmits signals, does not send power."
+
+placeableLiquid: true
+category: crafting
+
+liquidCapacity: 20
+
+liquidOutputDirections: [1, 1, 1]
+consumes: {
+liquids: [
+signal/0
+inactive/0
+active/0
+]
+}
+outputLiquids: [
+	active/0
+	inactive/0
+	signal/0
+]
