@@ -18,7 +18,7 @@ active/0
 ]
 }
 outputLiquids: [
-	active/0
-	inactive/0
-	signal/0
+active/0
+inactive/0
+signal/0
 ]
