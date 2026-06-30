@@ -7,6 +7,10 @@ description: "Transmits signals, does not send power."
 placeableLiquid: true
 category: crafting
 
+rotate: true
+quickRotate: true
+squareSprite: false
+
 liquidCapacity: 20
 
 liquidOutputDirections: [1, 1, 1]
@@ -21,4 +25,8 @@ outputLiquids: [
 active/0
 inactive/0
 signal/0
+]
+requirements: [
+ferric-stone-item/10
+gold/5
 ]
