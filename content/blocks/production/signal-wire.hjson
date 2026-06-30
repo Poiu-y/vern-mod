@@ -12,8 +12,13 @@ quickRotate: true
 squareSprite: false
 
 liquidCapacity: 20
+drawer: [
+{
+type: DrawLiquidOutputs
+}
+]
 
-liquidOutputDirections: [1, 1, 1]
+liquidOutputDirections: [2, 2, 2]
 consumes: {
 liquids: [
 signal/0
