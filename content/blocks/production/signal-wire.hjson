@@ -21,7 +21,7 @@ type: DrawLiquidOutputs
 }
 ]
 
-liquidOutputDirections: [2, 2, 2]
+liquidOutputDirections: [4, 4, 4]
 consumes: {
 liquids: [
 signal/0.1
