@@ -24,9 +24,9 @@ type: DrawLiquidOutputs
 liquidOutputDirections: [2, 2, 2]
 consumes: {
 liquids: [
-signal/0
-inactive/0
-active/0
+signal/0.1
+inactive/0.1
+active/0.1
 ]
 }
 outputLiquids: [
