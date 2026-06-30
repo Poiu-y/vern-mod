@@ -1,5 +1,5 @@
 type: GenericCrafter
-name: Old World Oven
+name: "Oven"
 description: "A strange artifact from a bygone civilisation, heats biomatter to 'cook' it. presumeably useful for biological life."
 size: 2
 category: crafting
@@ -11,7 +11,7 @@ requirements: [
 consumes: {
   power:0.05
   items: [
-    dough/5
+    biomass/5
   ]
 }
 drawer: {
@@ -55,4 +55,4 @@ ambientSound: hum
 researchCostMultiplier: 0.5
 ambientSoundVolume: 0.05
 squareSprite: false
-outputItem: bread/1
+outputItem: baked-biomass/1
